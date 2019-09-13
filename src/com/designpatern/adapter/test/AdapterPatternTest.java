@@ -1,7 +1,9 @@
-package com.test.base.designpatern.adapter.test;
+package com.designpatern.adapter.test;
 
-import com.test.base.designpatern.adapter.SocketAdapter;
-import com.test.base.designpatern.adapter.Volt;
+import com.designpatern.adapter.SocketAdapter;
+import com.designpatern.adapter.SocketClassAdapterImpl;
+import com.designpatern.adapter.SocketObjectAdapterImpl;
+import com.designpatern.adapter.Volt;
 
 public class AdapterPatternTest {
 

@@ -1,8 +1,4 @@
-package com.test.base.designpatern.adapter.test;
-
-import com.test.base.designpatern.adapter.Socket;
-import com.test.base.designpatern.adapter.SocketAdapter;
-import com.test.base.designpatern.adapter.Volt;
+package com.designpatern.adapter;
 
 public class SocketObjectAdapterImpl implements SocketAdapter {
 

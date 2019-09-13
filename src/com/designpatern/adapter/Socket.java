@@ -1,4 +1,4 @@
-package com.test.base.designpatern.adapter;
+package com.designpatern.adapter;
 
 public class Socket {
 
